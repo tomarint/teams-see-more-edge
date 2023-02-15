@@ -1,14 +1,14 @@
 # 🚀 Teams See More
 
-This is a chrome extension that expands collapsed messages in Microsoft Teams Web.
+This is an edge extension that expands collapsed messages in Microsoft Teams Web.
 
 ![Screenshot](./screenshots/1280x800.png)
 
 ## How to install
 
-You can install from chrome web store below.
+You can install from edge add-ons store below.
 
-https://chrome.google.com/webstore/detail/teams-see-more/ndnacjlajgpdeahkcooiilheddiabjdc
+https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home
 
 ## Usage
 
